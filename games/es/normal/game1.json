@@ -1,0 +1,368 @@
+{
+    "rounds": [
+        {
+            "answers": [
+                {
+                    "ans": "Shrek.",
+                    "pnt": 46,
+                    "trig": false
+                },
+                {
+                    "ans": "El gato con botas",
+                    "pnt": 22,
+                    "trig": false
+                },
+                {
+                    "ans": "Garfield.",
+                    "pnt": 16,
+                    "trig": false
+                },
+                {
+                    "ans": "Don gato y su pandilla",
+                    "pnt": 8,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿Cuentos o películas donde aparece un gato famoso?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Blanco",
+                    "pnt": 33,
+                    "trig": false
+                },
+                {
+                    "ans": "Martillo",
+                    "pnt": 26,
+                    "trig": false
+                },
+                {
+                    "ans": "Gris",
+                    "pnt": 18,
+                    "trig": false
+                },
+                {
+                    "ans": "Gato",
+                    "pnt": 14,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Tipos de tiburón"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Trastes",
+                    "pnt": 33,
+                    "trig": false
+                },
+                {
+                    "ans": "Dientes",
+                    "pnt": 22,
+                    "trig": false
+                },
+                {
+                    "ans": "Ropa Interior",
+                    "pnt": 20,
+                    "trig": false
+                },
+                {
+                    "ans": "Cuerpo",
+                    "pnt": 13,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Algo que se lava todos los días"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Jugar",
+                    "pnt": 34,
+                    "trig": false
+                },
+                {
+                    "ans": "Deportes",
+                    "pnt": 30,
+                    "trig": false
+                },
+                {
+                    "ans": "Correr",
+                    "pnt": 15,
+                    "trig": false
+                },
+                {
+                    "ans": "Ver Televisión",
+                    "pnt": 9,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Dime una actividad extraescolar de los niños"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Agua Oxigenada",
+                    "pnt": 33,
+                    "trig": false
+                },
+                {
+                    "ans": "Merthiolate",
+                    "pnt": 26,
+                    "trig": false
+                },
+                {
+                    "ans": "Alcohol",
+                    "pnt": 19,
+                    "trig": false
+                },
+                {
+                    "ans": "Agua y jabón",
+                    "pnt": 18,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿Productos que se usan para desinfectar una herida?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Debajo de la cama",
+                    "pnt": 58,
+                    "trig": false
+                },
+                {
+                    "ans": "En un clóset",
+                    "pnt": 19,
+                    "trig": false
+                },
+                {
+                    "ans": "En el garaje",
+                    "pnt": 12,
+                    "trig": false
+                },
+                {
+                    "ans": "Detrás de las cortinas",
+                    "pnt": 8,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿En qué lugares de una casa te puedes esconder si no quieres que te encuentren?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Doberman",
+                    "pnt": 34,
+                    "trig": false
+                },
+                {
+                    "ans": "Bóxer",
+                    "pnt": 28,
+                    "trig": false
+                },
+                {
+                    "ans": "Pitbull",
+                    "pnt": 19,
+                    "trig": false
+                },
+                {
+                    "ans": "Bulldog",
+                    "pnt": 11,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿Razas de perros a los que les cortan la cola?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Harina",
+                    "pnt": 37,
+                    "trig": false
+                },
+                {
+                    "ans": "Huevos",
+                    "pnt": 26,
+                    "trig": false
+                },
+                {
+                    "ans": "Mantequilla",
+                    "pnt": 16,
+                    "trig": false
+                },
+                {
+                    "ans": "Leche",
+                    "pnt": 11,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿Cosas que necesitas para hacer wafles/gofres?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Nombre",
+                    "pnt": 43,
+                    "trig": false
+                },
+                {
+                    "ans": "Peso",
+                    "pnt": 26,
+                    "trig": false
+                },
+                {
+                    "ans": "País",
+                    "pnt": 18,
+                    "trig": false
+                },
+                {
+                    "ans": "Edad",
+                    "pnt": 12,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿Información de los contrincantes que da el anunciador antes de una pelea de box?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Fuego",
+                    "pnt": 43,
+                    "trig": false
+                },
+                {
+                    "ans": "Agricultura",
+                    "pnt": 26,
+                    "trig": false
+                },
+                {
+                    "ans": "Rueda",
+                    "pnt": 18,
+                    "trig": false
+                },
+                {
+                    "ans": "La escritura",
+                    "pnt": 12,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿Primeros descubrimientos de la humanidad?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Con un gotero",
+                    "pnt": 49,
+                    "trig": false
+                },
+                {
+                    "ans": "Con una cuchara",
+                    "pnt": 23,
+                    "trig": false
+                },
+                {
+                    "ans": "Con una jeringa",
+                    "pnt": 12,
+                    "trig": false
+                },
+                {
+                    "ans": "Con los dedos",
+                    "pnt": 7,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿Con qué aplicas algo en pequeñas cantidades?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Trapecio",
+                    "pnt": 44,
+                    "trig": false
+                },
+                {
+                    "ans": "Aros",
+                    "pnt": 21,
+                    "trig": false
+                },
+                {
+                    "ans": "Cuerda floja",
+                    "pnt": 15,
+                    "trig": false
+                },
+                {
+                    "ans": "Trampolín",
+                    "pnt": 10,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿Objetos relacionados con acrobacias de circo?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Toallas",
+                    "pnt": 42,
+                    "trig": false
+                },
+                {
+                    "ans": "Folletos",
+                    "pnt": 30,
+                    "trig": false
+                },
+                {
+                    "ans": "Ceniceros",
+                    "pnt": 14,
+                    "trig": false
+                },
+                {
+                    "ans": "Batas",
+                    "pnt": 6,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿Objetos en los que los hoteles ponen su logotipo?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Fierros",
+                    "pnt": 49,
+                    "trig": false
+                },
+                {
+                    "ans": "Soldadura",
+                    "pnt": 22,
+                    "trig": false
+                },
+                {
+                    "ans": "Martillo",
+                    "pnt": 12,
+                    "trig": false
+                },
+                {
+                    "ans": "Fuego",
+                    "pnt": 6,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿Menciona algo que utilizan los herreros?"
+        }
+    ]
+}
