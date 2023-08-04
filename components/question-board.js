@@ -6,8 +6,8 @@ export default function QuestionBoard(props) {
   return (
     <div className="flex flex-row items-center justify-center">
       <div
-        className="rounded-3xl border-black grid lg:grid-rows-4 lg:grid-flow-col gap-3 bg-black flex-grow"
-        style={{ borderWidth: 12 }}
+        className="rounded-3xl border-black grid lg:grid-rows-4 lg:grid-flow-col gap-3 bg-black"
+        style={{ borderWidth: 12, width: "40%" }}
       >
         {props.round.answers.map((x, index) => (
           <div className=" uppercase items-center text-center rounded border-2 font-extrabold">

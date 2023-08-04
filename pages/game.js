@@ -28,7 +28,7 @@ export default function Game(props) {
   useEffect(() => {
     fetch("/api/ws").finally(() => {
       ws.current = new WebSocket(`wss://${window.location.host}/api/ws`);
-      ws.current.onopen = function() {
+      ws.current.onopen = function () {
         console.log("game connected to server");
         let session = cookieCutter.get("session");
         console.debug(session);
@@ -47,7 +47,7 @@ export default function Game(props) {
         }
       };
 
-      ws.current.onmessage = function(evt) {
+      ws.current.onmessage = function (evt) {
         var received_msg = evt.data;
         let json = JSON.parse(received_msg);
         console.debug(json);
@@ -141,8 +141,10 @@ export default function Game(props) {
     } else {
       gameSession = (
         <div className="flex flex-col space-y-10 py-5 px-10">
-          <Round game={game} />
-          <QuestionBoard round={game.rounds[game.round]} />
+          <div className="question-board-div">
+            <Round game={game} />
+            <QuestionBoard round={game.rounds[game.round]} />
+          </div>
           <div className="flex flex-row justify-around">
             <TeamName game={game} team={0} />
             <TeamName game={game} team={1} />
@@ -152,11 +154,11 @@ export default function Game(props) {
     }
 
     if (typeof window !== "undefined") {
-      document.body.className= game?.settings?.theme + " bg-background";
+      document.body.className = game?.settings?.theme + " bg-background";
     }
     return (
       <>
-        <div className={`${game?.settings?.theme} min-h-screen`}>
+        <div className={`${game?.settings?.theme} min-h-screen main-game-div`}>
           <div className="">
             {gameSession}
             {error !== "" ? (
