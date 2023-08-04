@@ -1,0 +1,386 @@
+{
+    "rounds": [
+        {
+            "answers": [
+                {
+                    "ans": "Dinero/Monedas",
+                    "pnt": 19,
+                    "trig": false
+                },
+                {
+                    "ans": "Comida/Agua",
+                    "pnt": 18,
+                    "trig": false
+                },
+                {
+                    "ans": "Botiquín de primeros auxilios",
+                    "pnt": 18,
+                    "trig": false
+                },
+                {
+                    "ans": "Neumático de repuesto",
+                    "pnt": 15,
+                    "trig": false
+                },
+                {
+                    "ans": "Mapa",
+                    "pnt": 7,
+                    "trig": false
+                },
+                {
+                    "ans": "Cables de arranque",
+                    "pnt": 7,
+                    "trig": false
+                },
+                {
+                    "ans": "Ropa/Zapatos de repuesto",
+                    "pnt": 5,
+                    "trig": false
+                },
+                {
+                    "ans": "Lata de gasolina",
+                    "pnt": 2,
+                    "trig": false
+                },
+                {
+                    "ans": "Luz de emergencia",
+                    "pnt": 2,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "¿Qué llevas en tu coche, por si acaso?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Capitán América",
+                    "pnt": 22,
+                    "trig": false
+                },
+                {
+                    "ans": "Iron Man",
+                    "pnt": 22,
+                    "trig": false
+                },
+                {
+                    "ans": "Pantera Negra",
+                    "pnt": 20,
+                    "trig": false
+                },
+                {
+                    "ans": "El Increíble Hulk",
+                    "pnt": 15,
+                    "trig": false
+                },
+                {
+                    "ans": "Thor",
+                    "pnt": 15,
+                    "trig": false
+                },
+                {
+                    "ans": "Viuda Negra",
+                    "pnt": 9,
+                    "trig": false
+                },
+                {
+                    "ans": "Spiderman",
+                    "pnt": 3,
+                    "trig": false
+                },
+                {
+                    "ans": "Ojo de Halcón",
+                    "pnt": 3,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre de los Vengadores de Marvel"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "China",
+                    "pnt": 45,
+                    "trig": false
+                },
+                {
+                    "ans": "India",
+                    "pnt": 28,
+                    "trig": false
+                },
+                {
+                    "ans": "Estados Unidos",
+                    "pnt": 20,
+                    "trig": false
+                },
+                {
+                    "ans": "Brasil",
+                    "pnt": 5,
+                    "trig": false
+                },
+                {
+                    "ans": "México",
+                    "pnt": 2,
+                    "trig": false
+                },
+                {
+                    "ans": "Indonesia",
+                    "pnt": 2,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre de un país con una gran población"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Afeitárselas/Depilárselas",
+                    "pnt": 63,
+                    "trig": false
+                },
+                {
+                    "ans": "Poner desodorante en ellas",
+                    "pnt": 10,
+                    "trig": false
+                },
+                {
+                    "ans": "Hacer ruido/eructar",
+                    "pnt": 9,
+                    "trig": false
+                },
+                {
+                    "ans": "Rascárselas/frotárselas",
+                    "pnt": 6,
+                    "trig": false
+                },
+                {
+                    "ans": "Olerlas",
+                    "pnt": 6,
+                    "trig": false
+                },
+                {
+                    "ans": "Lavárselas",
+                    "pnt": 6,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo que la gente hace con sus axilas"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Té",
+                    "pnt": 59,
+                    "trig": false
+                },
+                {
+                    "ans": "Café",
+                    "pnt": 34,
+                    "trig": false
+                },
+                {
+                    "ans": "Leche",
+                    "pnt": 3,
+                    "trig": false
+                },
+                {
+                    "ans": "Sidra",
+                    "pnt": 3,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre de una bebida que se sirve tanto caliente como fría"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Chicle",
+                    "pnt": 49,
+                    "trig": false
+                },
+                {
+                    "ans": "Caca/Excremento de perro",
+                    "pnt": 43,
+                    "trig": false
+                },
+                {
+                    "ans": "Barro/Suciedad",
+                    "pnt": 4,
+                    "trig": false
+                },
+                {
+                    "ans": "Papel higiénico/Papel",
+                    "pnt": 3,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo que odias ver en la parte inferior de tu zapato"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Reírse/Sonreír",
+                    "pnt": 91,
+                    "trig": false
+                },
+                {
+                    "ans": "Chillar/Gritar",
+                    "pnt": 3,
+                    "trig": false
+                },
+                {
+                    "ans": "Tirarse un pedo",
+                    "pnt": 2,
+                    "trig": false
+                },
+                {
+                    "ans": "Patear",
+                    "pnt": 2,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo que un bebé podría hacer cuando le besas la barriga"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Biblioteca",
+                    "pnt": 82,
+                    "trig": false
+                },
+                {
+                    "ans": "Iglesia",
+                    "pnt": 10,
+                    "trig": false
+                },
+                {
+                    "ans": "Cine/Teatro",
+                    "pnt": 3,
+                    "trig": false
+                },
+                {
+                    "ans": "Dormitorio",
+                    "pnt": 2,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre un lugar donde se supone que debes estar muy callado"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Cuaquear",
+                    "pnt": 65,
+                    "trig": false
+                },
+                {
+                    "ans": "Nadar/Paddlear",
+                    "pnt": 20,
+                    "trig": false
+                },
+                {
+                    "ans": "Andar a trompicones",
+                    "pnt": 7,
+                    "trig": false
+                },
+                {
+                    "ans": "Volar",
+                    "pnt": 4,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo que hacen los patos"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Dinero",
+                    "pnt": 61,
+                    "trig": false
+                },
+                {
+                    "ans": "Un coche nuevo",
+                    "pnt": 24,
+                    "trig": false
+                },
+                {
+                    "ans": "Viajes/Vacaciones",
+                    "pnt": 9,
+                    "trig": false
+                },
+                {
+                    "ans": "Refrigeradores",
+                    "pnt": 2,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo que la gente gana en los concursos de televisión"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Fuego",
+                    "pnt": 26,
+                    "trig": false
+                },
+                {
+                    "ans": "Café",
+                    "pnt": 24,
+                    "trig": false
+                },
+                {
+                    "ans": "Té",
+                    "pnt": 21,
+                    "trig": false
+                },
+                {
+                    "ans": "Estufa",
+                    "pnt": 16,
+                    "trig": false
+                },
+                {
+                    "ans": "Chimenea",
+                    "pnt": 13,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre cosas calientes"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Montaña rusa",
+                    "pnt": 56,
+                    "trig": false
+                },
+                {
+                    "ans": "Barco/buque",
+                    "pnt": 13,
+                    "trig": false
+                },
+                {
+                    "ans": "Coche",
+                    "pnt": 10,
+                    "trig": false
+                },
+                {
+                    "ans": "Noria",
+                    "pnt": 9,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo en lo que la gente monta y les hace vomitar"
+        }
+    ]
+}
