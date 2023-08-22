@@ -31,7 +31,7 @@
     "build": "NODE_OPTIONS=--openssl-legacy-provider next build",
     "start": "NODE_OPTIONS=--openssl-legacy-provider NODE_ENV=production node server.js",
     "start_local": "NODE_OPTIONS=--openssl-legacy-provider NODE_ENV=local node server.js",
-    "start_windows": "set NODE_ENV=local && node server.js",
+    "start_windows": "set NODE_ENV=local && node --openssl-legacy-provider server.js",
     "parse-locales": "i18next-scanner --config ./i18n/i18next-scanner.config.js",
     "build_docker": "docker build -t ghcr.io/joshzcold/cold-family-feud .",
     "build_docker_push": "docker push ghcr.io/joshzcold/cold-family-feud"

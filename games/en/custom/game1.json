@@ -1,0 +1,309 @@
+{
+    "rounds": [
+        {
+            "answers": [
+                {
+                    "ans": "Trastes",
+                    "pnt": 33,
+                    "trig": false
+                },
+                {
+                    "ans": "Dientes",
+                    "pnt": 22,
+                    "trig": false
+                },
+                {
+                    "ans": "Ropa Interior",
+                    "pnt": 20,
+                    "trig": false
+                },
+                {
+                    "ans": "Cuerpo",
+                    "pnt": 13,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Algo que se lava todos los días"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Nombre",
+                    "pnt": 43,
+                    "trig": false
+                },
+                {
+                    "ans": "Peso",
+                    "pnt": 26,
+                    "trig": false
+                },
+                {
+                    "ans": "País",
+                    "pnt": 18,
+                    "trig": false
+                },
+                {
+                    "ans": "Edad",
+                    "pnt": 12,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Información de los contrincantes que da el anunciador antes de una pelea de boxeo"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Toallas",
+                    "pnt": 42,
+                    "trig": false
+                },
+                {
+                    "ans": "Folletos",
+                    "pnt": 30,
+                    "trig": false
+                },
+                {
+                    "ans": "Ceniceros",
+                    "pnt": 14,
+                    "trig": false
+                },
+                {
+                    "ans": "Batas",
+                    "pnt": 6,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Objetos en los que los hoteles ponen su logotipo"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "China",
+                    "pnt": 45,
+                    "trig": false
+                },
+                {
+                    "ans": "India",
+                    "pnt": 28,
+                    "trig": false
+                },
+                {
+                    "ans": "Estados Unidos",
+                    "pnt": 20,
+                    "trig": false
+                },
+                {
+                    "ans": "Brasil",
+                    "pnt": 5,
+                    "trig": false
+                },
+                {
+                    "ans": "México",
+                    "pnt": 2,
+                    "trig": false
+                },
+                {
+                    "ans": "Indonesia",
+                    "pnt": 2,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Países con gran población"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Afeitárselas/Depilárselas",
+                    "pnt": 63,
+                    "trig": false
+                },
+                {
+                    "ans": "Poner desodorante en ellas",
+                    "pnt": 10,
+                    "trig": false
+                },
+                {
+                    "ans": "Hacer ruido/Simular tirar un pedo",
+                    "pnt": 9,
+                    "trig": false
+                },
+                {
+                    "ans": "Rascárselas/frotárselas",
+                    "pnt": 6,
+                    "trig": false
+                },
+                {
+                    "ans": "Olerlas",
+                    "pnt": 6,
+                    "trig": false
+                },
+                {
+                    "ans": "Lavárselas",
+                    "pnt": 6,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo que la gente hace con sus axilas"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Té",
+                    "pnt": 59,
+                    "trig": false
+                },
+                {
+                    "ans": "Café",
+                    "pnt": 34,
+                    "trig": false
+                },
+                {
+                    "ans": "Leche",
+                    "pnt": 3,
+                    "trig": false
+                },
+                {
+                    "ans": "Chocolate",
+                    "pnt": 3,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Bebidas que se sirven tanto calientes como frías"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Biblioteca",
+                    "pnt": 82,
+                    "trig": false
+                },
+                {
+                    "ans": "Iglesia",
+                    "pnt": 10,
+                    "trig": false
+                },
+                {
+                    "ans": "Cine/Teatro",
+                    "pnt": 3,
+                    "trig": false
+                },
+                {
+                    "ans": "Dormitorio",
+                    "pnt": 2,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre un lugar donde se supone que debes estar muy callado"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Dinero",
+                    "pnt": 61,
+                    "trig": false
+                },
+                {
+                    "ans": "Vehículos nuevos",
+                    "pnt": 24,
+                    "trig": false
+                },
+                {
+                    "ans": "Viajes/Vacaciones",
+                    "pnt": 9,
+                    "trig": false
+                },
+                {
+                    "ans": "Televisores",
+                    "pnt": 2,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo que la gente gana en los concursos de televisión"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Fuego",
+                    "pnt": 26,
+                    "trig": false
+                },
+                {
+                    "ans": "Café",
+                    "pnt": 24,
+                    "trig": false
+                },
+                {
+                    "ans": "Plancha",
+                    "pnt": 21,
+                    "trig": false
+                },
+                {
+                    "ans": "Estufa",
+                    "pnt": 16,
+                    "trig": false
+                },
+                {
+                    "ans": "Chimenea",
+                    "pnt": 13,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre cosas calientes"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Dinero/Monedas",
+                    "pnt": 19,
+                    "trig": false
+                },
+                {
+                    "ans": "Comida/Agua",
+                    "pnt": 18,
+                    "trig": false
+                },
+                {
+                    "ans": "Botiquín de primeros auxilios",
+                    "pnt": 18,
+                    "trig": false
+                },
+                {
+                    "ans": "Neumático de repuesto",
+                    "pnt": 15,
+                    "trig": false
+                },
+                {
+                    "ans": "Cables de arranque/puenteo",
+                    "pnt": 9,
+                    "trig": false
+                },
+                {
+                    "ans": "Ropa/Zapatos de repuesto",
+                    "pnt": 7,
+                    "trig": false
+                },
+                {
+                    "ans": "Lata de gasolina",
+                    "pnt": 4,
+                    "trig": false
+                },
+                {
+                    "ans": "Luz de emergencia",
+                    "pnt": 3,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Cosas que llevas en tu coche por si acaso"
+        }
+    ]
+}
