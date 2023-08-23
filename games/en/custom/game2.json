@@ -2,86 +2,28 @@
     "rounds": [
         {
             "answers": [
-                [
-                    "Sleep",
-                    28
-                ],
-                [
-                    "Exercise",
-                    26
-                ],
-                [
-                    "Talk On The Phone",
-                    16
-                ],
-                [
-                    "Stay Up",
-                    12
-                ],
-                [
-                    "Watch TV",
-                    10
-                ],
-                [
-                    "Play Video Games",
-                    4
-                ]
-            ],
-            "selection": 0,
-            "points": 0,
-            "input": "",
-            "revealed": false,
-            "question": "Name Something A Teen Can Do For Longer Amounts Of Time Than Their Parents."
-        },
-        {
-            "answers": [
-                [
-                    "Basketball court",
-                    54
-                ],
-                [
-                    "Theater/concert",
-                    35
-                ],
-                [
-                    "Amusement park",
-                    23
-                ],
-                [
-                    "Supermarket",
-                    15
-                ]
-            ],
-            "selection": 0,
-            "points": 0,
-            "input": "",
-            "revealed": false,
-            "question": "Name a place where it is good to be tall"
-        },
-        {
-            "answers": [
                 {
-                    "ans": "Riding Horses",
+                    "ans": "Montar a caballo",
                     "pnt": 54,
                     "trig": false
                 },
                 {
-                    "ans": "Roping",
+                    "ans": "Utilizar el lazo",
                     "pnt": 21,
                     "trig": false
                 },
                 {
-                    "ans": "Shooting",
+                    "ans": "Disparar",
                     "pnt": 6,
                     "trig": false
                 },
                 {
-                    "ans": "Hunting",
+                    "ans": "Cazar",
                     "pnt": 6,
                     "trig": false
                 },
                 {
-                    "ans": "Stealing Cattle",
+                    "ans": "Robar ganado",
                     "pnt": 3,
                     "trig": false
                 },
@@ -92,22 +34,22 @@
                 }
             ],
             "multiply": 1,
-            "question": "Name Something Cowboys Are Good At."
+            "question": "Nombre algo en lo que los vaqueros son buenos"
         },
         {
             "answers": [
                 {
-                    "ans": "Other People",
+                    "ans": "Otras personas",
                     "pnt": 34,
                     "trig": false
                 },
                 {
-                    "ans": "Work/ School",
+                    "ans": "Trabajo / Escuela",
                     "pnt": 29,
                     "trig": false
                 },
                 {
-                    "ans": "Eating",
+                    "ans": "Comer",
                     "pnt": 25,
                     "trig": false
                 },
@@ -118,198 +60,250 @@
                 }
             ],
             "multiply": 1,
-            "question": "Tell Me Something You Avoid When You Are Sick"
+            "question": "Dime algo que evitas cuando estás enfermo"
         },
         {
             "answers": [
                 {
-                    "ans": "Head",
+                    "ans": "Cabeza",
                     "pnt": 51,
                     "trig": false
                 },
                 {
-                    "ans": "Ears",
+                    "ans": "Oídos",
                     "pnt": 11,
                     "trig": false
                 },
                 {
-                    "ans": "Eyes",
+                    "ans": "Ojos",
                     "pnt": 10,
                     "trig": false
                 },
                 {
-                    "ans": "Stomach",
+                    "ans": "Estómago",
                     "pnt": 6,
                     "trig": false
                 }
             ],
-            "multiply": 2,
-            "question": "Name Something On A Baby That Often Looks Big Compared To The Rest Of Their Body."
+            "multiply": 1,
+            "question": "Nombre algo en un bebé que a menudo parece grande en comparación con el resto de su cuerpo"
         },
         {
             "answers": [
                 {
-                    "ans": "Crystal Ball ",
+                    "ans": "Bola de cristal",
                     "pnt": 46,
                     "trig": false
                 },
                 {
-                    "ans": "Cards ",
+                    "ans": "Cartas",
                     "pnt": 30,
                     "trig": false
                 },
                 {
-                    "ans": "Future / Fortune ",
+                    "ans": "Futuro / Fortuna",
                     "pnt": 20,
                     "trig": false
                 },
                 {
-                    "ans": "Gypsy ",
+                    "ans": "Velas",
                     "pnt": 13,
                     "trig": false
                 },
                 {
-                    "ans": "Palm Reading ",
+                    "ans": "Lectura de palma",
                     "pnt": 8,
                     "trig": false
                 },
                 {
-                    "ans": "Bullshit ",
+                    "ans": "Tonterías/Disparates",
                     "pnt": 5,
                     "trig": false
                 }
             ],
             "multiply": 1,
-            "question": "Name Something You Associate With A Fortune Teller"
+            "question": "Nombre algo con lo que relacionas a un adivino / lector de fortuna"
         },
         {
             "answers": [
                 {
-                    "ans": "Running",
+                    "ans": "Correr",
                     "pnt": 29,
                     "trig": false
                 },
                 {
-                    "ans": "Walking",
+                    "ans": "Caminar",
                     "pnt": 27,
                     "trig": false
                 },
                 {
-                    "ans": "Dancing",
+                    "ans": "Bailar",
                     "pnt": 25,
                     "trig": false
                 },
                 {
-                    "ans": "Sports",
+                    "ans": "Deportes",
                     "pnt": 10,
                     "trig": false
                 },
                 {
-                    "ans": "Exercise",
+                    "ans": "Ejercicio",
                     "pnt": 5,
                     "trig": false
                 },
                 {
-                    "ans": "Shopping",
+                    "ans": "Compras",
                     "pnt": 3,
                     "trig": false
                 }
             ],
             "multiply": 1,
-            "question": "Name An Activity That You Wear Comfortable Shoes For."
+            "question": "Nombre una actividad en la que utilizas zapatos cómodos"
         },
         {
             "answers": [
                 {
-                    "ans": "Keys",
+                    "ans": "Llaves",
                     "pnt": 56,
                     "trig": false
                 },
                 {
-                    "ans": "Money",
+                    "ans": "Dinero",
                     "pnt": 36,
                     "trig": false
                 },
                 {
-                    "ans": "Phone",
+                    "ans": "Teléfono",
                     "pnt": 24,
                     "trig": false
                 },
                 {
-                    "ans": "Clothes",
+                    "ans": "Ropa",
                     "pnt": 16,
                     "trig": false
                 },
                 {
-                    "ans": "Id",
+                    "ans": "Identificación",
                     "pnt": 10,
                     "trig": false
                 }
             ],
-            "multiply": 2,
-            "question": "Name Something People Should Never Leave House Without"
+            "multiply": 1,
+            "question": "Nombre algo que las personas nunca deberían dejar cuando salen de su casa"
         },
         {
             "answers": [
                 {
-                    "ans": "Happiness",
+                    "ans": "Felicidad",
                     "pnt": 38,
                     "trig": false
                 },
                 {
-                    "ans": "Health",
+                    "ans": "Salud",
                     "pnt": 22,
                     "trig": false
                 },
                 {
-                    "ans": "Friendship",
+                    "ans": "Amistad",
                     "pnt": 14,
                     "trig": false
                 },
                 {
-                    "ans": "Family",
+                    "ans": "Familia",
                     "pnt": 8,
                     "trig": false
                 },
                 {
-                    "ans": "Time",
+                    "ans": "Tiempo",
                     "pnt": 7,
                     "trig": false
                 }
             ],
-            "multiply": 2,
-            "question": "Other Than Love, Name Something That “Money Can’t Buy”."
+            "multiply": 1,
+            "question": "Además del amor, nombre algo que el dinero no puede comprar"
         },
         {
             "answers": [
                 {
-                    "ans": "Accident",
-                    "pnt": 45,
+                    "ans": "Fuego",
+                    "pnt": 43,
                     "trig": false
                 },
                 {
-                    "ans": "Break Down",
-                    "pnt": 25,
+                    "ans": "Agricultura",
+                    "pnt": 26,
                     "trig": false
                 },
                 {
-                    "ans": "Flat Tire",
+                    "ans": "Rueda",
                     "pnt": 18,
                     "trig": false
                 },
                 {
-                    "ans": "Rain",
+                    "ans": "Escritura",
+                    "pnt": 12,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Primeros descubrimientos de la humanidad?"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Chicle",
+                    "pnt": 49,
+                    "trig": false
+                },
+                {
+                    "ans": "Caca/Excremento de perro",
+                    "pnt": 43,
+                    "trig": false
+                },
+                {
+                    "ans": "Lodo/Suciedad",
+                    "pnt": 4,
+                    "trig": false
+                },
+                {
+                    "ans": "Papel higiénico",
+                    "pnt": 3,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombra algo que odiarías ver en pegado en la suela de tus zapatos"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Accidente",
+                    "pnt": 45,
+                    "trig": false
+                },
+                {
+                    "ans": "Avería",
+                    "pnt": 25,
+                    "trig": false
+                },
+                {
+                    "ans": "Pinchazo de neumático",
+                    "pnt": 18,
+                    "trig": false
+                },
+                {
+                    "ans": "Lluvia",
                     "pnt": 6,
                     "trig": false
                 },
                 {
-                    "ans": "Run Out Of Gas",
+                    "ans": "Quedarse sin gasolina",
                     "pnt": 4,
                     "trig": false
                 }
             ],
-            "multiply": 2,
-            "question": "What Would You Hate To Have Happen When Driving Home In A Brand New Car?"
+            "multiply": 1,
+            "question": "¿Qué odiarías que sucediera al regresar a casa en un vehículo acabado de comprar?"
         }
     ]
 }
