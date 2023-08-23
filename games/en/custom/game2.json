@@ -1,0 +1,315 @@
+{
+    "rounds": [
+        {
+            "answers": [
+                [
+                    "Sleep",
+                    28
+                ],
+                [
+                    "Exercise",
+                    26
+                ],
+                [
+                    "Talk On The Phone",
+                    16
+                ],
+                [
+                    "Stay Up",
+                    12
+                ],
+                [
+                    "Watch TV",
+                    10
+                ],
+                [
+                    "Play Video Games",
+                    4
+                ]
+            ],
+            "selection": 0,
+            "points": 0,
+            "input": "",
+            "revealed": false,
+            "question": "Name Something A Teen Can Do For Longer Amounts Of Time Than Their Parents."
+        },
+        {
+            "answers": [
+                [
+                    "Basketball court",
+                    54
+                ],
+                [
+                    "Theater/concert",
+                    35
+                ],
+                [
+                    "Amusement park",
+                    23
+                ],
+                [
+                    "Supermarket",
+                    15
+                ]
+            ],
+            "selection": 0,
+            "points": 0,
+            "input": "",
+            "revealed": false,
+            "question": "Name a place where it is good to be tall"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Riding Horses",
+                    "pnt": 54,
+                    "trig": false
+                },
+                {
+                    "ans": "Roping",
+                    "pnt": 21,
+                    "trig": false
+                },
+                {
+                    "ans": "Shooting",
+                    "pnt": 6,
+                    "trig": false
+                },
+                {
+                    "ans": "Hunting",
+                    "pnt": 6,
+                    "trig": false
+                },
+                {
+                    "ans": "Stealing Cattle",
+                    "pnt": 3,
+                    "trig": false
+                },
+                {
+                    "ans": "Rodeo",
+                    "pnt": 3,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Name Something Cowboys Are Good At."
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Other People",
+                    "pnt": 34,
+                    "trig": false
+                },
+                {
+                    "ans": "Work/ School",
+                    "pnt": 29,
+                    "trig": false
+                },
+                {
+                    "ans": "Eating",
+                    "pnt": 25,
+                    "trig": false
+                },
+                {
+                    "ans": "Alcohol",
+                    "pnt": 5,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Tell Me Something You Avoid When You Are Sick"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Head",
+                    "pnt": 51,
+                    "trig": false
+                },
+                {
+                    "ans": "Ears",
+                    "pnt": 11,
+                    "trig": false
+                },
+                {
+                    "ans": "Eyes",
+                    "pnt": 10,
+                    "trig": false
+                },
+                {
+                    "ans": "Stomach",
+                    "pnt": 6,
+                    "trig": false
+                }
+            ],
+            "multiply": 2,
+            "question": "Name Something On A Baby That Often Looks Big Compared To The Rest Of Their Body."
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Crystal Ball ",
+                    "pnt": 46,
+                    "trig": false
+                },
+                {
+                    "ans": "Cards ",
+                    "pnt": 30,
+                    "trig": false
+                },
+                {
+                    "ans": "Future / Fortune ",
+                    "pnt": 20,
+                    "trig": false
+                },
+                {
+                    "ans": "Gypsy ",
+                    "pnt": 13,
+                    "trig": false
+                },
+                {
+                    "ans": "Palm Reading ",
+                    "pnt": 8,
+                    "trig": false
+                },
+                {
+                    "ans": "Bullshit ",
+                    "pnt": 5,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Name Something You Associate With A Fortune Teller"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Running",
+                    "pnt": 29,
+                    "trig": false
+                },
+                {
+                    "ans": "Walking",
+                    "pnt": 27,
+                    "trig": false
+                },
+                {
+                    "ans": "Dancing",
+                    "pnt": 25,
+                    "trig": false
+                },
+                {
+                    "ans": "Sports",
+                    "pnt": 10,
+                    "trig": false
+                },
+                {
+                    "ans": "Exercise",
+                    "pnt": 5,
+                    "trig": false
+                },
+                {
+                    "ans": "Shopping",
+                    "pnt": 3,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Name An Activity That You Wear Comfortable Shoes For."
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Keys",
+                    "pnt": 56,
+                    "trig": false
+                },
+                {
+                    "ans": "Money",
+                    "pnt": 36,
+                    "trig": false
+                },
+                {
+                    "ans": "Phone",
+                    "pnt": 24,
+                    "trig": false
+                },
+                {
+                    "ans": "Clothes",
+                    "pnt": 16,
+                    "trig": false
+                },
+                {
+                    "ans": "Id",
+                    "pnt": 10,
+                    "trig": false
+                }
+            ],
+            "multiply": 2,
+            "question": "Name Something People Should Never Leave House Without"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Happiness",
+                    "pnt": 38,
+                    "trig": false
+                },
+                {
+                    "ans": "Health",
+                    "pnt": 22,
+                    "trig": false
+                },
+                {
+                    "ans": "Friendship",
+                    "pnt": 14,
+                    "trig": false
+                },
+                {
+                    "ans": "Family",
+                    "pnt": 8,
+                    "trig": false
+                },
+                {
+                    "ans": "Time",
+                    "pnt": 7,
+                    "trig": false
+                }
+            ],
+            "multiply": 2,
+            "question": "Other Than Love, Name Something That “Money Can’t Buy”."
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Accident",
+                    "pnt": 45,
+                    "trig": false
+                },
+                {
+                    "ans": "Break Down",
+                    "pnt": 25,
+                    "trig": false
+                },
+                {
+                    "ans": "Flat Tire",
+                    "pnt": 18,
+                    "trig": false
+                },
+                {
+                    "ans": "Rain",
+                    "pnt": 6,
+                    "trig": false
+                },
+                {
+                    "ans": "Run Out Of Gas",
+                    "pnt": 4,
+                    "trig": false
+                }
+            ],
+            "multiply": 2,
+            "question": "What Would You Hate To Have Happen When Driving Home In A Brand New Car?"
+        }
+    ]
+}
