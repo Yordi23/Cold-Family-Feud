@@ -428,5 +428,9 @@
             "revealed": false,
             "question": "Nombre una excusa que las personas dan para no votar."
         }
+    ],
+    "final_round_timers": [
+        20,
+        25
     ]
 }
