@@ -1,0 +1,340 @@
+{
+    "rounds": [
+        {
+            "answers": [
+                {
+                    "ans": "Cabeza",
+                    "pnt": 48,
+                    "trig": false
+                },
+                {
+                    "ans": "Diente",
+                    "pnt": 31,
+                    "trig": false
+                },
+                {
+                    "ans": "Espalda",
+                    "pnt": 20,
+                    "trig": false
+                },
+                {
+                    "ans": "Oído",
+                    "pnt": 13,
+                    "trig": false
+                },
+                {
+                    "ans": "Rodilla",
+                    "pnt": 9,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombra un tipo de dolor que sea común"
+        },
+        ,
+        {
+            "answers": [
+                {
+                    "ans": "Varita mágica",
+                    "pnt": 56,
+                    "trig": false
+                },
+                {
+                    "ans": "Elfos",
+                    "pnt": 36,
+                    "trig": false
+                },
+                {
+                    "ans": "Alas",
+                    "pnt": 24,
+                    "trig": false
+                },
+                {
+                    "ans": "Magia",
+                    "pnt": 16,
+                    "trig": false
+                },
+                {
+                    "ans": "Cuentos de hadas",
+                    "pnt": 10,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo que asocias con las hadas"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Cerdo",
+                    "pnt": 37,
+                    "trig": false
+                },
+                {
+                    "ans": "Perro",
+                    "pnt": 30,
+                    "trig": false
+                },
+                {
+                    "ans": "Roedor/Rata",
+                    "pnt": 10,
+                    "trig": false
+                },
+                {
+                    "ans": "Zorrillo",
+                    "pnt": 7,
+                    "trig": false
+                },
+                {
+                    "ans": "Mono",
+                    "pnt": 7,
+                    "trig": false
+                },
+                {
+                    "ans": "Elefante",
+                    "pnt": 4,
+                    "trig": false
+                },
+                {
+                    "ans": "Vaca",
+                    "pnt": 3,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre un animal asociado con la suciedad."
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Fuego",
+                    "pnt": 26,
+                    "trig": false
+                },
+                {
+                    "ans": "Café",
+                    "pnt": 24,
+                    "trig": false
+                },
+                {
+                    "ans": "Plancha",
+                    "pnt": 21,
+                    "trig": false
+                },
+                {
+                    "ans": "Estufa",
+                    "pnt": 16,
+                    "trig": false
+                },
+                {
+                    "ans": "Chimenea",
+                    "pnt": 13,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre cosas calientes"
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Botiquín de primeros auxilios",
+                    "pnt": 41,
+                    "trig": false
+                },
+                {
+                    "ans": "Linterna",
+                    "pnt": 23,
+                    "trig": false
+                },
+                {
+                    "ans": "Agua",
+                    "pnt": 12,
+                    "trig": false
+                },
+                {
+                    "ans": "Cuchillo",
+                    "pnt": 6,
+                    "trig": false
+                },
+                {
+                    "ans": "Cerillas",
+                    "pnt": 3,
+                    "trig": false
+                },
+                {
+                    "ans": "Teléfono celular",
+                    "pnt": 3,
+                    "trig": false
+                },
+                {
+                    "ans": "Manta",
+                    "pnt": 3,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo que los campistas podrían llevar consigo para emergencias."
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Naranja",
+                    "pnt": 56,
+                    "trig": false
+                },
+                {
+                    "ans": "Sandía",
+                    "pnt": 14,
+                    "trig": false
+                },
+                {
+                    "ans": "Filete",
+                    "pnt": 14,
+                    "trig": false
+                },
+                {
+                    "ans": "Manzana",
+                    "pnt": 12,
+                    "trig": false
+                },
+                {
+                    "ans": "Hamburguesa",
+                    "pnt": 3,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo que comas y que pueda describirse como jugoso."
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Aniversario",
+                    "pnt": 40,
+                    "trig": false
+                },
+                {
+                    "ans": "Disculpa",
+                    "pnt": 26,
+                    "trig": false
+                },
+                {
+                    "ans": "Cumpleaños",
+                    "pnt": 17,
+                    "trig": false
+                },
+                {
+                    "ans": "Día de San Valentín",
+                    "pnt": 11,
+                    "trig": false
+                },
+                {
+                    "ans": "Decir que la ama",
+                    "pnt": 7,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre una razón por la cual un esposo podría enviar flores a su esposa."
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Piloto",
+                    "pnt": 50,
+                    "trig": false
+                },
+                {
+                    "ans": "Instrumentos",
+                    "pnt": 33,
+                    "trig": false
+                },
+                {
+                    "ans": "Palanca de cambios",
+                    "pnt": 21,
+                    "trig": false
+                },
+                {
+                    "ans": "Asiento",
+                    "pnt": 14,
+                    "trig": false
+                },
+                {
+                    "ans": "Radar",
+                    "pnt": 9,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre algo que podrías encontrar en la cabina de un avión."
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Actor",
+                    "pnt": 54,
+                    "trig": false
+                },
+                {
+                    "ans": "Músico",
+                    "pnt": 26,
+                    "trig": false
+                },
+                {
+                    "ans": "Modelo",
+                    "pnt": 7,
+                    "trig": false
+                },
+                {
+                    "ans": "Político",
+                    "pnt": 6,
+                    "trig": false
+                },
+                {
+                    "ans": "Atleta",
+                    "pnt": 4,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre una profesión a la que te dedicarías si quisieras ser famoso."
+        },
+        {
+            "answers": [
+                {
+                    "ans": "Televisión",
+                    "pnt": 42,
+                    "trig": false
+                },
+                {
+                    "ans": "Sofá",
+                    "pnt": 27,
+                    "trig": false
+                },
+                {
+                    "ans": "Refrigerador",
+                    "pnt": 18,
+                    "trig": false
+                },
+                {
+                    "ans": "Microondas",
+                    "pnt": 12,
+                    "trig": false
+                },
+                {
+                    "ans": "Mesa",
+                    "pnt": 7,
+                    "trig": false
+                },
+                {
+                    "ans": "Cama",
+                    "pnt": 5,
+                    "trig": false
+                }
+            ],
+            "multiply": 1,
+            "question": "Nombre un objeto específico en tu casa que sea demasiado grande para tirar en el zafacon."
+        }
+    ]
+}

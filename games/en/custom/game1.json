@@ -231,33 +231,28 @@
         {
             "answers": [
                 {
-                    "ans": "Fuego",
-                    "pnt": 26,
+                    "ans": "Ha estado bebiendo",
+                    "pnt": 45,
                     "trig": false
                 },
                 {
-                    "ans": "Café",
-                    "pnt": 24,
+                    "ans": "Problemas con el coche",
+                    "pnt": 40,
                     "trig": false
                 },
                 {
-                    "ans": "Plancha",
-                    "pnt": 21,
+                    "ans": "Mal clima",
+                    "pnt": 6,
                     "trig": false
                 },
                 {
-                    "ans": "Estufa",
-                    "pnt": 16,
-                    "trig": false
-                },
-                {
-                    "ans": "Chimenea",
-                    "pnt": 13,
+                    "ans": "Ir al aeropuerto",
+                    "pnt": 4,
                     "trig": false
                 }
             ],
             "multiply": 1,
-            "question": "Nombre cosas calientes"
+            "question": "Nombre una razón por la cual una persona que tiene coche llamaría a un taxi"
         },
         {
             "answers": [
