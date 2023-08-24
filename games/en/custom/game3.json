@@ -335,5 +335,98 @@
             "multiply": 1,
             "question": "Nombre un objeto específico en tu casa que sea demasiado grande para tirar en el zafacon."
         }
+    ],
+    "final_round": [
+        {
+            "answers": [
+                [
+                    "Hamburguesa",
+                    30
+                ],
+                [
+                    "Papas fritas",
+                    24
+                ],
+                [
+                    "Pollo",
+                    15
+                ],
+                [
+                    "Ensalada",
+                    9
+                ],
+                [
+                    "Pan",
+                    6
+                ],
+                [
+                    "Pasta",
+                    4
+                ],
+                [
+                    "Filete",
+                    4
+                ]
+            ],
+            "selection": 0,
+            "points": 0,
+            "input": "",
+            "revealed": false,
+            "question": "Nombre un alimento específico que puedes obtener en casi todos los restaurantes."
+        },
+        {
+            "answers": [
+                [
+                    "Manchas",
+                    39
+                ],
+                [
+                    "Talla",
+                    26
+                ],
+                [
+                    "Agujeros",
+                    15
+                ],
+                [
+                    "Precio",
+                    9
+                ],
+                [
+                    "Botones faltantes",
+                    3
+                ],
+                [
+                    "Cremallera rota",
+                    3
+                ]
+            ],
+            "selection": 0,
+            "points": 0,
+            "input": "",
+            "revealed": false,
+            "question": "Nombre algo que necesitas revisar si estás comprando un vestido usado."
+        },
+        {
+            "answers": [
+                [
+                    "No hace la diferencia",
+                    46
+                ],
+                [
+                    "Muy ocupado",
+                    30
+                ],
+                [
+                    "No me importa",
+                    20
+                ]
+            ],
+            "selection": 0,
+            "points": 0,
+            "input": "",
+            "revealed": false,
+            "question": "Nombre una excusa que las personas dan para no votar."
+        }
     ]
 }
